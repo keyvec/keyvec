@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on vector search platform.
+🔭 I’m currently working on vector search engine.
 
-🌱 I’m currently reading *Expert C Programming*.
+🌱 I’m currently reading *How to Take Smart Notes*.

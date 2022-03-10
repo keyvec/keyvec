@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyvec&layout=compact"/>
+![GitHub Profile](https://github-readme-stats.vercel.app/api?username=keyvec&show_icons=true)
 
 <img src="https://count.getloli.com/get/@keyvec?theme=asoul" alt="keyvec" />

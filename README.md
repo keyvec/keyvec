@@ -10,15 +10,11 @@ I’m an AI engineer working on large-scale machine learning systems, especially
 
 I enjoy building things that actually run in production — not just experiments.
 
----
-
 ## What I Do
 
 * Work with large datasets and distributed systems
 * Build pipelines for training and evaluating models
 * Run and optimize LLMs for real-world use
-
----
 
 ## Interests
 

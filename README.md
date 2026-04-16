@@ -1,14 +1,27 @@
-Hi Gemini, write a self introduction for GitHub user keyvec.
+Hi GPT, write a self introduction for GitHub user keyvec.
 
 ---
 
-## 👋 Hi, I'm keyvec
-I am a **Deep Learning Algorithm Engineer** dedicated to the intersection of high-performance AI inference and robust distributed systems. My work focuses on the practical application of large-scale models and the infrastructure required to run them efficiently.
+# 👋 Hi, I'm Keyvec
 
-## 🛠 Tech Stack & Tools
-- AI/ML: vLLM, Deep Learning Optimization, Model Inference.
-- Infrastructure: Ray, Spark, PyTorch.
-- Development: Python, Zsh, and Ghostty terminal.
+## About Me
 
-## ⚙️ Engineering Philosophy
-I believe in conciseness, efficiency, and readability. Whether I’m configuring a distributed cluster or writing a Python script, I strive for the most "signal" with the least "noise."
+I’m an AI engineer working on large-scale machine learning systems, especially around language models and data pipelines.
+
+I enjoy building things that actually run in production — not just experiments.
+
+---
+
+## What I Do
+
+* Work with large datasets and distributed systems
+* Build pipelines for training and evaluating models
+* Run and optimize LLMs for real-world use
+
+---
+
+## Interests
+
+* LLMs and AI systems
+* Scalable data processing
+* Multimodal understanding
